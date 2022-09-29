@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/wreck": "^15.0.0",
+    "@hapi/wreck": "^15.1.0",
     "hapi": "^18.1.0",
     "request": "^2.88.0",
     "twilio": "^3.30.0",
